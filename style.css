@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+button{
+    color: blue;
+    background-color:lightgreen;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+}
